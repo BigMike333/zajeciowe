@@ -1,0 +1,5 @@
+linijka 11111
+linia 22222
+linijka 33333
+linia 44444
+linijka 55555
